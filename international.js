@@ -13,8 +13,8 @@ function hello(language) {
     'Japanese': 'こんにちは世界',
     'Korean': '안녕하세요 세계',
     'Latin': 'Salve munde',
-    'Lithuanian': 'Labas pasauli'
-    'Malay' : 'Assalamualaikum dunia'
+    'Lithuanian': 'Labas pasauli',
+    'Malay' : 'Assalamualaikum dunia',
     'Piglatin': 'Ellohay orldway',
     'Portuguese': 'Olá mundo',
     'Russian': 'Здравствуй мир',
